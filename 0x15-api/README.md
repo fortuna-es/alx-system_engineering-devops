@@ -1,17 +1,15 @@
-# 0x15. API 
+## API
+> This repo shows an example of how to gather data from an API (file 0-), export it to CSV (file 1-), and export it to JSON (file 2-, 3-).
 
-## Resource
+### Resources:
+* [What are Microservices?](https://smartbear.com/learn/api-design/what-are-microservices/)
 
-- [Friends don’t let friends program in shell script](https://www.turnkeylinux.org/blog/friends-dont-let-friends-program-shell-script)
-- [What is an API](https://www.webopedia.com/definitions/api/)
-- [What is an API? In English, please](https://www.freecodecamp.org/news/what-is-an-api-in-english-please-b880a3214a82/)
-- [What is a REST API](https://www.sitepoint.com/rest-api/)
-- [What are microservices](https://smartbear.com/solutions/microservices/)
-- [PEP8 Python style - having a clean code respecting style guide is really appreciated in the industry](https://www.python.org/dev/peps/pep-0008/)
+### Environment
+* Language: Python 3.4.3
+* OS: Ubuntu 14.04 LTS
+* API: [Fake Online REST API for testing and Prototyping](https://jsonplaceholder.typicode.com/)
+* Style guidelines: [PEP 8 (version 1.7) for Python 3.5](https://www.python.org/dev/peps/pep-0008/) || [Google Style Python Docstrings](http://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
 
-## Tasks
-
-<details>
-<summary><a href="./0-gather_data_from_an_API.py">0. Gather data from an API</a></summary><br>
-<a href='https://postimg.cc/N5NpbXMC' target='_blank'><img src='https://i.postimg.cc/8zG9pBVG/image.png' border='0' alt='image'/></a>
-</details>
+---
+### Authors
+Melissa Ng [![M](https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Twitter_Bird.svg/30px-Twitter_Bird.svg.png)](https://twitter.com/MelissaNg__)
